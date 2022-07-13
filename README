@@ -1,0 +1,12 @@
+# Tuto Symfo
+petit projet symfony a vocation pédagogique
+contient :
+ - Crud
+ - Relation
+ - Exemple de recherche like simple
+
+## Rappel
+N'oubliez aps d'adapter votre version .env ( avec un .env.local par exemple)
+
+### Suite
+A compléter

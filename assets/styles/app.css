@@ -1,0 +1,9 @@
+body {
+    min-height: 100vh;
+}
+
+footer{
+    bottom: 0;
+    position: fixed;
+    width: 80%;
+}
